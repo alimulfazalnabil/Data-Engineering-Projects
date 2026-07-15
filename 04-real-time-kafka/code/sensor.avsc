@@ -1,0 +1,1 @@
+{"type":"record","name":"Sensor","fields":[{"name":"sensor_id","type":"int"},{"name":"temperature","type":"float"},{"name":"timestamp","type":"long"}]}
